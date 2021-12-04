@@ -1,0 +1,16 @@
+{
+  "name": "covid19info",
+  "version": "1.0.0",
+  "description": "This website will give you the latest covid 19 info everyday",
+  "main": "route.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kareeev Kawnine",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.7.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
